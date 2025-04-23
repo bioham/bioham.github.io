@@ -114,21 +114,27 @@ const CONFIG = {
   ],
   educations: [
     {
+      institution: 'Stanislaus County',
+      degree: 'GED',
+      from: '2020',
+      to: '2020',
+    },
+    {
       institution: 'Modesto Junior College',
       degree: 'AS Biology with Honors',
-      from: '2021',
+      from: '2020',
       to: '2024',
     },
     {
       institution: 'Modesto Junior College',
       degree: 'AS Chemistry with Honors',
-      from: '2021',
+      from: '2020',
       to: '2024',
     }, 
     {
       institution: 'Modesto Junior College',
       degree: 'AA General Studies: Natural Sciences with Honors',
-      from: '2021',
+      from: '2020',
       to: '2024',
     }, 
     {

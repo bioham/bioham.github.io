@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/terokkar/terokkar.github.io/raw/main/MoffettCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Microscopy',
+    'Aseptic technique',
+    'Bioinformatics',
+    'Biology',
   ],
   experiences: [
     {
@@ -124,17 +114,29 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Modesto Junior College',
+      degree: 'AS Biology with Honors',
+      from: '2021',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'Modesto Junior College',
+      degree: 'AS Chemistry with Honors',
+      from: '2021',
+      to: '2024',
+    }, 
+    {
+      institution: 'Modesto Junior College',
+      degree: 'AA General Studies: Natural Sciences with Honors',
+      from: '2021',
+      to: '2024',
+    }, 
+    {
+      institution: 'California State University Stanislaus',
+      degree: 'BS Biological Sciences',
+      from: '2024',
+      to: 'Present',
+    }, 
   ],
   publications: [
     {

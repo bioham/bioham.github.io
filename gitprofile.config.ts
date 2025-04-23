@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'HAM Website',
+    title: 'Moffett GitHub',
     description: '',
     imageURL: '',
   },

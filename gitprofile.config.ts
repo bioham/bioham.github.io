@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Microbiology Unknowns Project',
+      header: 'CSUStan Microbiology Unknowns Project',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'This was the final project for fall 2025 Introductory Microbiology at CSU Stanislaus. Our group correctly identified 3/5 uknown bacteria from our sample.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: 'https://github.com/terokkar/terokkar.github.io/blob/main/intromicrobio_lab_unknowns.pdf',
         },
         {
-          title: 'PCR Biology 101',
+          title: 'MJC Biology 101 PCR',
           description:
             'This was is first PCR.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
+          link: '',
         },
       ],
     },

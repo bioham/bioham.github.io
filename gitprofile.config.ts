@@ -83,10 +83,14 @@ const CONFIG = {
       'https://github.com/terokkar/terokkar.github.io/raw/main/MoffettCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'Biology',
+    'Chemistry',
+    'Microbiology',
     'Microscopy',
     'Aseptic technique',
-    'Bioinformatics',
-    'Biology',
+    'Bioinformatics (Genome assembly, QIIME2, Kraken2, HISAT2)',
+    'Python (Pandas, data parsing)',
+    'Ethics and HIPAA Compliance',
   ],
   experiences: [
     {

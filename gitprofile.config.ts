@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This was my first PCR. This was amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous.',
           imageUrl:
-            ''https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
+            'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
           link: 'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
         },
         {

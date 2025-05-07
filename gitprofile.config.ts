@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'PCR Crochet 12/8/2022',
           description:
-            'We were asked to draw our PCR gel for a lab report, but I instead designed and crocheted this fiber art version. I gifted the finished piece to my Biology 101 professor. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. I used size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook.',
+            'We were asked to draw our PCR gel for a lab report, but I instead designed and crocheted this fiber art version. I gifted the finished piece to my Biology 101 professor. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. I used size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook. Biology and crochet are two of my passions, and there’s always more to learn in both. It was wonderful to be able to combine them.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
           link: '',

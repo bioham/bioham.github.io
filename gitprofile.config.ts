@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This was my first PCR. This was amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous.',
           imageUrl:
-            '',
+            ''https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
           link: 'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'We were asked to draw our PCR for our PCR lab in Biology 101. I instead designed and made this crochet version of the PCR gel. The pattern cosists of a rectangular piece made up of half double crochet stitches with color changes as needed. Size 3 thread was used with a 2.5 mm crochet hook.',
           imageUrl:
-            '',
+            'https://github.com/terokkar/terokkar.github.io/blob/main/crochet_PCR.png',
           link: 'https://github.com/terokkar/terokkar.github.io/blob/main/crochet_PCR.png',
         },
       ],

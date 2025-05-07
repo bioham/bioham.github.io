@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'MJC Biology 101 PCR Lab 12/1/2022',
           description:
-            'This was my first PCR. The lab involved the amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous. This was the final lab for Biology 101 fall 2022. It started in November and ended in December.',
+            'This was my first PCR. The lab involved amplifying a gene on chromosome 16 to check for the presence of an Alu insert. Out of five students, three (including myself) were homozygous for the allele without the insert, one was homozygous with the insert, and one was heterozygous. This was our final lab for Biology 101 in Fall 2022 and it ran from November to December.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
           link: '',
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'PCR Crochet 12/8/2022',
           description:
-            'We were asked to draw our PCR for our lab report. I instead designed and made this crochet version of the PCR gel. The pattern is very simplistic and consists of a rectangular piece made up of half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. Size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook were used.',
+            'We were asked to draw our PCR for our lab report, but I instead designed and made this crochet version of the gel. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. Size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook were used.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
           link: '',

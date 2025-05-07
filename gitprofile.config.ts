@@ -33,17 +33,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'MJC Biology 101 PCR',
+          title: 'MJC Biology 101 PCR Lab 12/1/2022',
           description:
-            'This was my first PCR. This was amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous.',
+            'This was my first PCR. The lab involved the amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous. This was the final lab for Biology 101 fall 2022. It started in November and ended in December.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
           link: '',
         },
         {
-          title: 'MJC Biology 101 PCR Crochet',
+          title: 'PCR Crochet 12/8/2022',
           description:
-            'We were asked to draw our PCR for our PCR lab in Biology 101. I instead designed and made this crochet version of the PCR gel. The pattern cosists of a rectangular piece made up of half double crochet stitches with color changes as needed. Size 3 thread and a 2.0 mm crochet hook were used.',
+            'We were asked to draw our PCR for our lab report. I instead designed and made this crochet version of the PCR gel. The pattern is very simplistic and cosists of a rectangular piece made up of half double crochet stitches, skipped stitches for wells, color changes, and a slip stitch border at both ends. Size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook were used.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
           link: '',

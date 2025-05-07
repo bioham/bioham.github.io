@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['terokkar/genome_section_report', 'terokkar/microbiome_tutorial'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['terokkar/genome_section_report', 'terokkar/microbiome_section_report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {

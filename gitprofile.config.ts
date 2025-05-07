@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'CSUStan Microbiology Unknowns Project',
+      header: 'Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'MJC Biology 101 PCR Crochet',
           description:
-            'We were asked to draw our PCR for our PCR lab in Biology 101. I instead designed and made this crochet version of the PCR gel. The pattern cosists of a rectangular piece made up of half double crochet stitches with color changes as needed. Size 3 thread was used with a 2.5 mm crochet hook.',
+            'We were asked to draw our PCR for our PCR lab in Biology 101. I instead designed and made this crochet version of the PCR gel. The pattern cosists of a rectangular piece made up of half double crochet stitches with color changes as needed. Size 3 thread and a 2.0 mm crochet hook were used.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
           link: '',
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'H.A.M. GitHub',
+    title: 'HAM GitHub',
     description: '',
     imageURL: '',
   },
@@ -109,8 +109,8 @@ const CONFIG = {
     {
       institution: 'Stanislaus County',
       degree: 'GED',
-      from: '2020',
-      to: '2020',
+      from: 'May 2020',
+      to: 'October 2020',
     },
     {
       institution: 'Modesto Junior College',

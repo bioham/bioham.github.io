@@ -33,26 +33,26 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
-          description:
-            'This was the final project for fall 2025 Introductory Microbiology at CSU Stanislaus. Our group correctly identified 3/5 uknown bacteria from our sample.',
-          imageUrl:
-            '',
-          link: 'https://github.com/terokkar/terokkar.github.io/blob/main/intromicrobio_lab_unknowns.pdf',
-        },
-        {
           title: 'MJC Biology 101 PCR',
           description:
             'This was my first PCR. This was amplication of a gene on chromosome 16. The purpose was to look for an Alu insert. 3/5 people (including myself) were homozygous for the gene without an Alu insert, 1 person was homozygous for the gene with an Alu insert, and 1 person was heterozygous.',
           imageUrl:
-            'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
-          link: '',
+            '',
+          link: 'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
+        },
+        {
+          title: 'MJC Biology 101 PCR Crochet',
+          description:
+            'We were asked to draw our PCR for our PCR lab in Biology 101. I instead designed and made this crochet version of the PCR gel. The pattern cosists of a rectangular piece made up of half double crochet stitches with color changes as needed. Size 3 thread was used with a 2.5 mm crochet hook.',
+          imageUrl:
+            '',
+          link: 'https://github.com/terokkar/terokkar.github.io/blob/main/crochet_PCR.png',
         },
       ],
     },
   },
   seo: {
-    title: 'Moffett GitHub',
+    title: 'H.A.M. GitHub',
     description: '',
     imageURL: '',
   },
@@ -99,10 +99,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'American Heart Association BLS',
+      body: '',
+      year: '2024-present',
+      link: '',
     },
   ],
   educations: [
@@ -115,25 +115,25 @@ const CONFIG = {
     {
       institution: 'Modesto Junior College',
       degree: 'AS Biology with Honors',
-      from: '2020',
-      to: '2024',
+      from: 'October 2020',
+      to: 'April 2024',
     },
     {
       institution: 'Modesto Junior College',
       degree: 'AS Chemistry with Honors',
-      from: '2020',
-      to: '2024',
+      from: 'October 2020',
+      to: 'April 2024',
     }, 
     {
       institution: 'Modesto Junior College',
       degree: 'AA General Studies: Natural Sciences with Honors',
-      from: '2020',
-      to: '2024',
+      from: 'October 2020',
+      to: 'April 2024',
     }, 
     {
       institution: 'California State University Stanislaus',
       degree: 'BS Biological Sciences',
-      from: '2024',
+      from: 'August 2024',
       to: 'Present',
     }, 
   ],
@@ -148,20 +148,20 @@ const CONFIG = {
         'This is a manuscript in submission. Here we present the draft genome sequence of Intestinibacter bartletti DSM 16795, a human gut isolate of interest in autism-associated microbiome studies. The genome spans 2.97 Mb across 22 contigs, with a GC content of 28.84% and 100% estimated completeness. Key genomic features include virulence factors, antibiotic resistance genes, biosynthetic clusters, and CRISRP-Cas loci.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: '',
+      conferenceName: '',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: '',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
+    limit: 0, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX

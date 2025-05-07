@@ -48,8 +48,8 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
             >
               {
                 <LazyImage
-                  src={profile.avatar ? profile.avatar : FALLBACK_IMAGE}
-                  alt={profile.name}
+                  src='https://github.com/terokkar/terokkar.github.io/raw/main/git_pic.png'
+                  alt='hey! i like the way you scroll ;)'
                   placeholder={skeleton({
                     widthCls: 'w-full',
                     heightCls: 'h-full',

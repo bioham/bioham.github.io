@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'PCR Crochet 12/8/2022',
           description:
-            'We were asked to draw our PCR for our lab report, but I instead designed and made this crochet version of the gel. The finished product was gifted to the Professor. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. Size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook were used.',
+            'We were asked to draw our PCR gel for a lab report, but I instead designed and crocheted this version. I gifted the finished piece to my professor. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. I used size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook.',
           imageUrl:
             'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
           link: '',

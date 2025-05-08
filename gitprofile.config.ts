@@ -89,7 +89,6 @@ const CONFIG = {
     'Microscopy',
     'Aseptic technique',
     'Bioinformatics',
-    'Python',
     'Ethics and HIPAA Compliance',
   ],
   experiences: [

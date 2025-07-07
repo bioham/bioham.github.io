@@ -47,7 +47,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
             >
               {
                 <LazyImage
-                  src='https://github.com/terokkar/terokkar.github.io/raw/main/git_pic.png'
+                  src='https://github.com/bioham/bioham.github.io/raw/main/catDNA'
                   alt='hey! i like the way you scroll ;)'
                   placeholder={skeleton({
                     widthCls: 'w-full',

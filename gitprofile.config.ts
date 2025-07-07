@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['bioham/genome_section_report', 'bioham/microbiome_section_report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['bioham/mycobacterium_tuberculosis_kosovo', 'ycobacterium_tuberculosis_unknown_origin', 'mycobacterium_tuberculosis_argentina_xdr'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'HAM GitHub',
+    title: 'bioham GitHub',
     description: '',
     imageURL: '',
   },
@@ -88,8 +88,6 @@ const CONFIG = {
     'Microbiology',
     'Microscopy',
     'Aseptic technique',
-    'Bioinformatics',
-    'Ethics and HIPAA Compliance',
   ],
   experiences: [
     {
@@ -135,7 +133,7 @@ const CONFIG = {
     }, 
     {
       institution: 'California State University Stanislaus',
-      degree: 'BS Biological Sciences',
+      degree: 'BS Biological Sciences, Honors Program',
       from: 'August 2024',
       to: 'Present',
     }, 

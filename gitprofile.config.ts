@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'terokkar', // Your GitHub org/user name. (This is the only required config)
+    username: 'bioham', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['terokkar/genome_section_report', 'terokkar/microbiome_section_report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['bioham/genome_section_report', 'bioham/microbiome_section_report'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This was my first PCR. The lab involved amplifying a gene on chromosome 16 to check for the presence of an Alu insert. Out of five students, three (including myself) were homozygous for the allele without the insert, one was homozygous with the insert, and one was heterozygous. This was our final lab for Biology 101 in Fall 2022 and it ran from November to December.',
           imageUrl:
-            'https://github.com/terokkar/terokkar.github.io/raw/main/bio101_PCRgel.jpg',
+            'https://github.com/bioham/bioham.github.io/raw/main/bio101_PCRgel.jpg',
           link: '',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'We were asked to draw our PCR gel for a lab report, but I instead designed and crocheted this fiber art version. I gifted the finished piece to the Biology 101 professor. The pattern consists of a rectangular piece made with half double crochet stitches, skipped stitches for wells, color changes for bands, and a slip stitch border at both ends. I used size 3 crochet thread, embroidery floss, and a 2.0 mm crochet hook.',
           imageUrl:
-            'https://github.com/terokkar/terokkar.github.io/raw/main/crochet_PCR.png',
+            'https://github.com/bioham/bioham.github.io/raw/main/crochet_PCR.png',
           link: '',
         },
       ],
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/terokkar/terokkar.github.io/raw/main/MoffettCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/bioham/bioham.github.io/raw/main/MoffettCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Biology',
@@ -146,7 +146,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'JGI, DSMV, Students & Professor to be filled in later',
-      link: 'https://github.com/terokkar/terokkar.github.io/raw/main/Draft%20Genome%20Sequence%20of%20Intestinibacter%20bartletti%20DSM%2016795%2C%20a%20Human%20Gut%20Isolate%20Associated%20with%20Autism%20Microbiome%20Studies.pdf',
+      link: 'https://github.com/bioham/bioham.github.io/raw/main/Draft%20Genome%20Sequence%20of%20Intestinibacter%20bartletti%20DSM%2016795%2C%20a%20Human%20Gut%20Isolate%20Associated%20with%20Autism%20Microbiome%20Studies.pdf',
       description:
         'This is a manuscript in submission. Here we present the draft genome sequence of Intestinibacter bartletti DSM 16795, a human gut isolate of interest in autism-associated microbiome studies. The genome spans 2.97 Mb across 22 contigs, with a GC content of 28.84% and 100% estimated completeness. Key genomic features include virulence factors, antibiotic resistance genes, biosynthetic clusters, and CRISRP-Cas loci.',
     },
